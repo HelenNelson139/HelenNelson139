@@ -1,12 +1,13 @@
-# Hi, you can call me Helen.
-My full name is Hoang Thai Ngoc.
+## About me
+
+Hi, my name is Hoang Thai Ngoc. You can call me Helen.
 
 - Student at University of Information Technology - VNUHCM  
 - Major: Computer Networks and Data Communication  
 - Faculty of Computer Networks and Communications
 
-## About me
-I am interested in Cloud, DevOps, Computer Networks, and Software-Defined Networking.
+I am interested in Cloud, DevOps, Computer Networks.
+
 ## Contact
 
 - Email: 23521023@gm.uit.edu.vn
