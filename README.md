@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, you can call me Helen.
+My full name is Hoang Thai Ngoc.
 
-<!--
-**HelenNelson139/HelenNelson139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at University of Information Technology - VNUHCM  
+🌐 Major: Computer Networks and Data Communication  
+🏫 Faculty of Computer Networks and Communications
 
-Here are some ideas to get you started:
+## About me
+I am interested in Cloud, DevOps, Computer Networks, and Software-Defined Networking.
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelenNelson139&show_icons=true&theme=default)
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: 23521023@gm.uit.edu.vn
+- GitHub: [HelenNelson139](https://github.com/HelenNelson139)
