@@ -7,8 +7,6 @@ My full name is Hoang Thai Ngoc.
 
 ## About me
 I am interested in Cloud, DevOps, Computer Networks, and Software-Defined Networking.
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelenNelson139&show_icons=true&theme=default)
 ## Contact
 
 - Email: 23521023@gm.uit.edu.vn
