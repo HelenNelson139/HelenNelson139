@@ -1,16 +1,16 @@
-## About me
+## About Me
 
 Hi, my name is Hoang Thai Ngoc. You can call me Helen.
 
-- Student at University of Information Technology - VNUHCM  
-- Major: Computer Networks and Data Communication  
-- Faculty of Computer Networks and Communications
+- Student at University of Information Technology - VNUHCM
+- Major: Computer Networks and Data Communication
+- Faculty: Computer Networks and Communications
 
-I am interested in Cloud, DevOps, Computer Networks.
+I am interested in Cloud Computing, DevOps, and Computer Networks.
 
 ## Contact
 
-- Email: 23521023@gm.uit.edu.vn ,
-         nhelenastra@gmail.com
+- Email: 23521023@gm.uit.edu.vn  
+         nhelenastr@gmail.com
 - GitHub: [HelenNelson139](https://github.com/HelenNelson139)
-- Linkedln: [Ngọc Hoàng Thái](www.linkedin.com/in/nhelenastra)
+- LinkedIn: [Ngọc Hoàng Thái](https://www.linkedin.com/in/nhelenastra)
