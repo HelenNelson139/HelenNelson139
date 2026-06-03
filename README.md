@@ -10,6 +10,6 @@ I am interested in Cloud, DevOps, Computer Networks.
 
 ## Contact
 
-- Email: 23521023@gm.uit.edu.vn
+- Email: 23521023@gm.uit.edu.vn ,
          nhelenastra@gmail.com
 - GitHub: [HelenNelson139](https://github.com/HelenNelson139)
